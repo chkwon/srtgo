@@ -35,13 +35,10 @@
 - Waitlist for sold-out trains
 
 ## Installation / Update
-```bash
-pip install srtgo -U
-```
 
-- Install beta version (can be unstable)
+- Install from this repo
 ```bash
-pip install git+https://github.com/lapis42/srtgo -U
+pip install git+https://github.com/chkwon/srtgo -U
 ```
 
 ## Using SRTgo
